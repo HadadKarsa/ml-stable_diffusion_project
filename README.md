@@ -12,16 +12,3 @@ Selamat datang di repositori "Enhanced Image Generation with Stable Diffusion"! 
 Untuk menggunakan repositori ini, ikuti langkah-langkah berikut:
 ```bash
 git clone https://github.com/HadadKarsa/ml-stable_diffusion_project.git
-
-## Penggunaan
-Instruksi penggunaan untuk setiap proyek akan disediakan dalam direktori masing-masing. Silakan merujuk pada dokumentasi yang ada di setiap folder proyek untuk informasi lebih lanjut.
-
-## Kontribusi
-Kontribusi sangat dihargai! Jika Anda ingin berkontribusi, silakan fork repositori, buat perubahan Anda, dan kirimkan Pull Request dengan deskripsi perubahan.
-
-## Lisensi
-Proyek ini dilisensikan di bawah [Nama Lisensi]. Lihat file LICENSE untuk informasi lebih lanjut.
-
-## Kontak
-Untuk pertanyaan atau diskusi lebih lanjut, silakan hubungi kami melalui [Alamat Email].
-
